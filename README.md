@@ -219,4 +219,8 @@ Agent orchestrates.
 ---
 
 ## 🧠 Author
+Name: Farhan Abid
+Email: farhankhan080304@gmail.com
+Portfolio: https://dev-vault-alpha.vercel.app/
+
 Built as part of AI Agent development learning.
